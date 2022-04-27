@@ -5,7 +5,7 @@
 - Datasets from huggingface.
 - GPT2Tokenizer.
 - GPT3 from Sberbank-ai.
-- Aiogram for creating telegram bot with StateMachine.
+- Aiogram for creating telegram bot with Finite State Machine.
 
 <h2 align="center">Result:</h2>
   
